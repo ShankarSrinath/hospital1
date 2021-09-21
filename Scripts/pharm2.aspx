@@ -1,16 +1,6 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="pharm2.aspx.cs" Inherits="hospital1.Scripts.pharm2" %>
 
- 
-
- 
-
- 
-
 <!DOCTYPE html>
-
- 
-
- 
 
  
 
@@ -28,9 +18,6 @@
             background-color:cornflowerblue;
             padding:10px;
             text-align:center;
-
- 
-
         }
 
  
@@ -47,7 +34,6 @@
             left:50%;
             margin-left:70px;
         }
-
  
 
         .field-titles{
@@ -57,7 +43,6 @@
         }
 
  
-
         .fetch-button{
             color:black;
             position:absolute;
